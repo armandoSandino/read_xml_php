@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<herramientas>
+
+<articulo code="H1" color="negro">
+<id>1</id>
+<nombre>Destornillador</nombre>
+<categoria>CODE1</categoria>
+<precio>237</precio>
+</articulo>
+
+<articulo code="H2" color="azul">
+	<id>2</id>
+	<nombre>Cortadora</nombre>
+	<categoria>CODE1</categoria>
+	<precio>345</precio>
+</articulo>
+
+</herramientas>
